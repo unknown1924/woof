@@ -1,0 +1,49 @@
+.main {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 2em;
+}
+.main nav img {
+  margin: 0 9px;
+}
+nav {
+  width: 100%;
+}
+.navbar-brand {
+  font-size: 1.5em;
+}
+
+.dog-images {
+  height: 70vh;
+}
+.dog-images img {
+  height: 70vh;
+  width: auto;
+}
+
+.carousel-item {
+  height: 700px;
+}
+.carousel-item img {
+  position: absolute;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  min-height: 700px;
+}
+
+.carousel-item div h5 {
+  padding: 0 15px;
+  border-radius: 10px;
+  display: inline;
+  background-color: #fce77d;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #f96167;
+}
+
+.carousel-item div p {
+  margin: 20px 0;
+  border-radius: 10px;
+  background-color: #fcedda;
+  color: #ee4e34;
+}
