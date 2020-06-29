@@ -12,6 +12,16 @@ nav {
   font-size: 1.5em;
 }
 
+.nav-link {
+  margin-left: 10px;
+}
+
+.nav-link:hover {
+  border-radius: 10px;
+  background: #c3a0db;
+  transition: ease-in-out 0.3s;
+}
+
 .dog-images {
   height: 70vh;
 }
@@ -46,4 +56,17 @@ nav {
   border-radius: 10px;
   background-color: #fcedda;
   color: #ee4e34;
+}
+
+.about {
+  padding: 20px 5px;
+  text-align: center;
+  font-family: sans-serif;
+  background: #3d4147;
+}
+
+#grey-bg {
+  padding: 10px 10px;
+  border-radius: 10px;
+  background: #c2acb7;
 }
